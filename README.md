@@ -4,6 +4,7 @@
 Course Project Experience
 - Expense Tracker for Lazy People
 - bookApp_Final
+-  [set up 24/ 7 music streaming in YouTube on Raspberry Pi](https://hackmd.io/@imlililili/rkxQDFOO5)
 
 Gradutaion Project
 - mineflayer agent
