@@ -3,11 +3,13 @@
 
 Course Project Experience
 - Expense Tracker for Lazy People
-- bookApp_Final
+- bookApp_FINAL
 -  [set up 24/ 7 music streaming in YouTube on Raspberry Pi](https://hackmd.io/@imlililili/rkxQDFOO5)
+-  Discord_bot
+-  web-project
 
 Gradutaion Project
-- mineflayer agent
+- mineflayer_agent
 
 2025 - 2027 (expected) UTS Master of Information Technology
 <!--
