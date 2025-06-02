@@ -1,5 +1,11 @@
-## Hi there 👋
-
+## About Me
+2019 - 2024 FCU IECS
+Course Project Experience
+- Expense Tracker for Lazy People
+- Second hand Exchange app with UIKit
+Gradutaion Project
+- mineflayer agent
+2025 - 2027 (expected) UTS Master of Information Technology
 <!--
 **imlililili/imlililili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
