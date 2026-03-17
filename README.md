@@ -1,5 +1,20 @@
 ## About Me
-2019 - 2024 FCU IECS
+
+Currently working on:
+- Blotz Task App
+
+## UTS Master of Information Technology
+2025 - Present 
+
+Course Project Experience
+- UniApp
+
+
+## FengChia University IECS
+2019 - 2024 
+
+Gradutaion Project
+- mineflayer_agent
 
 Course Project Experience
 - Expense Tracker for Lazy People
@@ -8,10 +23,8 @@ Course Project Experience
 -  Discord_bot
 -  web-project
 
-Gradutaion Project
-- mineflayer_agent
 
-2025 - 2027 (expected) UTS Master of Information Technology
+
 <!--
 **imlililili/imlililili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
