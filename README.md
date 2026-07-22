@@ -9,6 +9,9 @@ Currently working on:
 Course Project Experience
 - UniApp
 
+Apple Foundation Program | July 26 Program
+- GenTogether
+
 
 ## FengChia University IECS
 2019 - 2024 
