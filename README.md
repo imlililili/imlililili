@@ -8,6 +8,8 @@ Currently working on:
 
 Course Project Experience
 - UniApp
+- LettuceDecide
+- Pawlease
 
 Apple Foundation Program | July 26 Program
 - GenTogether
