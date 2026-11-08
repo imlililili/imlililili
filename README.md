@@ -10,6 +10,7 @@ Course Project Experience
 - UniApp
 - LettuceDecide
 - Pawlease
+- FridgeFit
 
 Apple Foundation Program | July 26 Program
 - GenTogether
